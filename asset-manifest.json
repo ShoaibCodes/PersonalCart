@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PersonalCart/static/css/main.d2b20dfa.chunk.css",
+    "main.js": "/PersonalCart/static/js/main.8e5c13f1.chunk.js",
+    "main.js.map": "/PersonalCart/static/js/main.8e5c13f1.chunk.js.map",
+    "runtime-main.js": "/PersonalCart/static/js/runtime-main.7becedb3.js",
+    "runtime-main.js.map": "/PersonalCart/static/js/runtime-main.7becedb3.js.map",
+    "static/js/2.f1b28e9e.chunk.js": "/PersonalCart/static/js/2.f1b28e9e.chunk.js",
+    "static/js/2.f1b28e9e.chunk.js.map": "/PersonalCart/static/js/2.f1b28e9e.chunk.js.map",
+    "index.html": "/PersonalCart/index.html",
+    "precache-manifest.e4f4c0df3cba39b4d966fd6a41fd8f1f.js": "/PersonalCart/precache-manifest.e4f4c0df3cba39b4d966fd6a41fd8f1f.js",
+    "service-worker.js": "/PersonalCart/service-worker.js",
+    "static/css/main.d2b20dfa.chunk.css.map": "/PersonalCart/static/css/main.d2b20dfa.chunk.css.map",
+    "static/js/2.f1b28e9e.chunk.js.LICENSE.txt": "/PersonalCart/static/js/2.f1b28e9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7becedb3.js",
+    "static/js/2.f1b28e9e.chunk.js",
+    "static/css/main.d2b20dfa.chunk.css",
+    "static/js/main.8e5c13f1.chunk.js"
+  ]
+}
